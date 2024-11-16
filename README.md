@@ -1,4 +1,4 @@
-# Detector de Personas y Predicción de Género
+# Detector de Personas e Identificación de Género
 
 Este proyecto utiliza el modelo YOLOv5 para la detección de personas y un modelo ResNet18 para predecir el género de las personas detectadas en tiempo real a través de la cámara web.
 
